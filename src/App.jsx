@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>this is dev</h1>
+      <h1>this is dev</h1>
       <h1>HAIFA SHLITAAA</h1>
       <h1>HAIFA SHLITAAA</h1>
       <div className="card">
